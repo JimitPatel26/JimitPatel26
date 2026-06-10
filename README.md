@@ -7,7 +7,6 @@
 - 🎓 Computer Science Student
 - 💻 I build projects to learn programming concepts
 - 🚀 Exploring Web Development & Backend Systems
-- 🌱 Currently Learning: **Pandas** & **Node.js**
 - 🧠 Interested in: **Backend Development** & **Data Analysis**
 - 📫 Reach me: [github.com/JimitPatel26](https://github.com/JimitPatel26)
 
