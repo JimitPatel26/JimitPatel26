@@ -1,13 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6A5ACD&width=500&lines=Hi+there!+I'm+Jimit+Patel+👋)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6A5ACD&width=500&lines=Hi+there!+I'm+Jimit+Patel+👋)
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student
-- 💻 I build projects to learn programming concepts
-- 🚀 Exploring Web Development & Backend Systems
-- 🧠 Interested in: **Backend Development** & **Data Analysis**
+- 🎓 Computer Engineering Student
+- 💻 I build projects to strengthen my programming and development skills
+- 🚀 Exploring Full-Stack Web Development & Backend Systems
+- 🧠 Interested in: **Backend Development, MERN Stack & Data Analysis**
 - 📫 Reach me: [github.com/JimitPatel26](https://github.com/JimitPatel26)
 
 ---
@@ -26,6 +26,10 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -37,7 +41,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![PyPlot](https://img.shields.io/badge/PyPlot-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
 <br>
@@ -70,11 +73,17 @@
 
 ## 📂 Projects
 
-### 🚗 MVaahan
-> A vehicle management system built using **Java** that manages vehicle-related information.
+### 🚗 mVaahan
+
+> A vehicle management system built using **Java and JavaFX** that manages vehicle-related information.
 
 ### 🌱 BioGrow
+
 > A project focused on **sustainable growth solutions and innovative ideas**.
+
+### 🏠 UrbanNest
+
+> A **MERN stack real estate platform** built using **MongoDB, Express.js, React.js, and Node.js**, designed to connect users, builders, and property listings through a centralized platform.
 
 ---
 
@@ -90,6 +99,6 @@
   </a>
   &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/jimit-patel-872363313/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jimit Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Jimit%20Patel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
